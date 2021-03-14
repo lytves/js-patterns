@@ -1,1 +1,1 @@
-# js-patterns
+# JavaScript Disign Patterns
