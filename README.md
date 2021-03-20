@@ -1,1 +1,1 @@
-# JavaScript Disign Patterns
+# JavaScript Design Patterns Examples
