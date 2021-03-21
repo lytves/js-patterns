@@ -22,3 +22,6 @@
 + State
 + Strategy
 + Template
+
+---
+Project is based on youtube video lession [JavaScript Patterns. Design Patterns.](https://www.youtube.com/watch?v=YJVj4XNASDk) by Vladilen Minin
